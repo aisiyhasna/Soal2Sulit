@@ -1,0 +1,2 @@
+<img width="543" height="450" alt="image" src="https://github.com/user-attachments/assets/eb78cd5a-76aa-4dd5-b26c-cf34dfcc469a" />
+Program tersebut digunakan untuk membuat matriks berdasarkan input pengguna, di mana pengguna diminta memasukkan jumlah baris, kolom, serta nilai untuk setiap elemen matriks. Setelah kedua matriks (A dan B) terbentuk, program akan menghitung dan menampilkan hasil penjumlahan dari kedua matriks tersebut.
